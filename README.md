@@ -1,6 +1,8 @@
 # REST API com Spring Boot e PostgreSQL
 
-Esta API é construída usado framework [Spring Boot](https://spring.io/projects/spring-boot). È baseado em um banco de dados [PostgreSQL](https://www.postgresql.org/).
+###  API de cadastro de imóveis.
+
+Sendo construída com o framework [Spring Boot](https://spring.io/projects/spring-boot)  e baseado em um banco de dados [PostgreSQL](https://www.postgresql.org/).
 
 <br>
 
@@ -10,6 +12,7 @@ Esta API é construída usado framework [Spring Boot](https://spring.io/projects
  <img width="500" src="https://github.com/Johnson49/api-rest-com-spring-boot-e-postgreSQL/blob/main/uml.drawio.png"> 
 </p>
 
+<br>
 
 ## EndPoints 
 
