@@ -2,6 +2,14 @@
 
 Esta API é construída usado framework [Spring Boot](https://spring.io/projects/spring-boot). È baseado em um banco de dados [PostgreSQL](https://www.postgresql.org/).
 
+<br>
+
+## Diagrama do banco de dados
+
+<p align="center">
+ <img width="500" src="https://github.com/Johnson49/api-rest-com-spring-boot-e-postgreSQL/blob/main/uml.drawio.png"> 
+</p>
+
 
 ## EndPoints 
 
