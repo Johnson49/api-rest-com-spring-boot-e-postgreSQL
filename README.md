@@ -1,6 +1,6 @@
 # REST API com Spring Boot e PostgreSQL
 
-###  API de cadastro de imóveis.
+###  API de cadastramento de imóveis
 
 Sendo construída com o framework [Spring Boot](https://spring.io/projects/spring-boot)  e baseado em um banco de dados [PostgreSQL](https://www.postgresql.org/).
 
